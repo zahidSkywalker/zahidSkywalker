@@ -1,89 +1,137 @@
+<!-- ═══════════════════ ZAHIDUL ISLAM · GITHUB PROFILE · v2 ═══════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:d946ef,100:f43f5e&height=210&section=header&text=Zahidul%20Islam&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder%20of%20Intelligent%20Systems&descSize=16&descAlignY=56&descAlign=center&animation=fadeIn" alt="header" />
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zahidSkywalker/zahidSkywalker/main/github_photo_300.png" alt="Zahidul Islam" width="220" style="border-radius: 50%; border: 3px solid #e63946;"/>
+<img src="https://raw.githubusercontent.com/zahidSkywalker/zahidSkywalker/main/github_photo_300.png" alt="Zahidul Islam" width="200" style="border-radius: 50%; border: 4px solid #7f5af0;" />
 
-<h1>Zahidul Islam</h1>
+<a href="https://github.com/zahidSkywalker">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=21&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=110&lines=Building+intelligent+systems+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;AI+Agents+%C2%B7+Voice+Tech+%C2%B7+Multi-Agent+Systems;Currently+wrangling+things+into+existence+%E2%9A%99%EF%B8%8F;Building+in+public+%E2%80%94+repo+by+repo" alt="Typing SVG" />
+</a>
 
-<p><i>AI Engineer | Full-Stack Developer | Builder of Intelligent Systems</i></p>
+<br/>
 
-<a href="https://github.com/zahidSkywalker?tab=repositories"><img src="https://img.shields.io/badge/Repositories-31-blue?style=for-the-badge&logo=github" alt="Repos"/></a>
-<a href="mailto:zahidul.islam@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Bangladesh-009639?style=for-the-badge&logoColor=white" alt="Location"/></a>
+<a href="https://github.com/zahidSkywalker?tab=followers"><img src="https://img.shields.io/github/followers/zahidSkywalker?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white" alt="Followers"/></a>
+<a href="https://github.com/zahidSkywalker?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzahidSkywalker&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=f43f5e&logo=github&logoColor=white" alt="Repos"/></a>
+<img src="https://komarev.com/ghpvc/?username=zahidSkywalker&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Views"/>
+<img src="https://img.shields.io/badge/Location-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-009639?style=for-the-badge" alt="Location"/>
 
 </div>
 
 ---
 
-### About Me
+## 🚀 About Me — building in public
 
-I'm a passionate **AI Engineer and Full-Stack Developer** from Bangladesh, dedicated to building intelligent systems that bridge the gap between cutting-edge AI research and real-world applications. My work spans across natural language processing, voice technology, web development, and multi-agent AI systems.
+I'm an **AI Engineer & Full-Stack Developer** from Bangladesh, currently in full
+wrangle-mode: turning raw ideas into agents that **talk, listen, and remember**.
+My playground spans **multi-agent AI systems**, **voice technology**, and
+**Next.js** frontends — going from first principles all the way to production.
 
-I believe in building tools that are not just functional but transformative — especially for the Bengali-speaking community, where AI accessibility remains a massive untapped opportunity.
-
----
-
-### What I Build
-
-- **AI Agents & Multi-Agent Systems** — Designing autonomous AI agents that collaborate, communicate, and evolve (Diana AI, Primrose AI, Agent 47)
-- **Voice Technology** — Working with TTS engines (Kokoro 82M, Edge TTS, XTTS v2) for natural Bengali and English voice synthesis
-- **Full-Stack Web Apps** — Next.js, React, Node.js, Supabase, Vercel deployments
-- **AI Engineering from Scratch** — Understanding and implementing AI systems from first principles
-
----
-
-### Tech Stack
+I care about one big idea: the **Bengali-speaking world deserves world-class AI
+tooling**, and I'm not waiting for someone else to build it. So I build in
+public — every repo on this profile is part of that bet.
 
 <div align="center">
 
-| **Languages** | **Frameworks** | **AI/ML** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| JavaScript | Next.js | OpenAI / Mistral | Git / GitHub |
-| TypeScript | React | Google Gemini | Vercel |
-| Python | Node.js | Kokoro TTS | Supabase |
-| SQL | Tailwind CSS | XTTS v2 | Docker |
-| Bash | Prisma | LangChain | Linux |
+**` ⚡ currently wrangling ⚡ `**
+
+| | |
+|:---|:---|
+| 🔮 **Diana AI** | conversational agent with voice, memory & persistent knowledge |
+| 🌐 **Universe of AI** | multi-agent hub where agents collaborate autonomously |
+| 🎙️ **Voice Stack** | Kokoro 82M · Edge TTS · XTTS v2 — Bengali + English synthesis |
+| 📚 **AI Engineering** | teaching & building AI systems from first principles |
 
 </div>
 
 ---
 
-### Current Projects
+## 🧰 Tech Stack
 
-| Project | Description | Tech |
+<div align="center">
+
+<a href="https://github.com/zahidSkywalker">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,swift,react,nextjs,nodejs,tailwind&perline=8" alt="stack 1"/>
+</a>
+<br/>
+<a href="https://github.com/zahidSkywalker">
+  <img src="https://skillicons.dev/icons?i=prisma,supabase,docker,vercel,git,github,linux,bash&perline=8" alt="stack 2"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kokoro%20TTS-d946ef?style=flat-square"/>
+<img src="https://img.shields.io/badge/XTTS%20v2-f43f5e?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+</div>
+
+---
+
+## 💎 Featured Projects
+
+| Project | What it does | Built with |
 |:---|:---|:---|
-| **Diana AI** | Conversational AI agent with voice, memory, and persistent knowledge | Next.js, Mistral, Kokoro, Supabase |
-| **Universe of AI** | Multi-agent communication hub with autonomous collaboration | Notion API, Discord, Cron |
-| **AI Engineering** | Learning and building AI systems from first principles | Python, PyTorch |
+| 🔮 [**Diana AI PWA**](https://github.com/zahidSkywalker/diana-ai-pwa) | Conversational AI with voice, memory & persistent knowledge | `Next.js` `Mistral` `Kokoro` `Supabase` |
+| 🎧 [**NanoWakeWord**](https://github.com/zahidSkywalker/NanoWakeWord) | Personal offline wake-word voice assistant | `Swift` `On-device ML` |
+| 🌉 [**Echo Bridge**](https://github.com/zahidSkywalker/echo-bridge) | Discord ⇄ Web chatbot bridge for Echo AI | `TypeScript` `WebSocket` |
+| 🚪 [**Bot Gateway**](https://github.com/zahidSkywalker/bot-gateway) | Token-based bot gateway — WebSocket + REST | `Node.js` `JWT` |
+| 🛒 [**NexMart**](https://github.com/zahidSkywalker/nexmart) | Professional multi-vendor e-commerce platform | `Next.js` `Stripe` |
+| 🧪 [**NCTB Physics Lab**](https://github.com/zahidSkywalker/nctb-physics-lab) | Interactive 3D physics lab for the NCTB curriculum | `Python` `Three.js` |
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zahidSkywalker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zahidSkywalker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidSkywalker&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidSkywalker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=zahidSkywalker&theme=radical&hide_border=true&locale=en" alt="Streak Stats"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zahidSkywalker&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies"/>
 
 </div>
 
 ---
 
-### Connect With Me
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahidSkywalker/zahidSkywalker/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahidSkywalker/zahidSkywalker/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zahidSkywalker/zahidSkywalker/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/zahidSkywalker"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Zahidul%20Islam-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zahidSkywalker&style=for-the-badge&color=e63946&label=Profile+Views" alt="Views"/>
+<a href="mailto:zahidul.islam@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://discord.com/users/578598045004988416"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
 ---
 
-> "The best way to predict the future is to build it." — and I'm building it with AI.
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+> **— and I'm building it with AI. ⚡**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:d946ef,100:7f5af0&height=140&section=footer" alt="footer" />
