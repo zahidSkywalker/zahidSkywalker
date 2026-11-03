@@ -1,20 +1,19 @@
 # Zahidul Islam
 
-AI engineer in Bangladesh. I build voice-first systems end to end: wake-word
-models that run on a phone, LLM engines that run on free CPU quota, and the
-agents wired around them.
+I build voice-first AI systems end to end: wake-word models that run on a
+phone, language models trained from scratch, and the agents wired around them.
 
 ## Now
 
-- Contributing type-contract fixes to [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel/pull/4633) — typing the recipe-resolution boundary in the launcher
-- Pretraining **NOESIS** M4 on free Kaggle GPUs — session-chained checkpoints, resumed across the 9-hour wall
-- Building **Atelier** (private): a self-hosted chat stack — CPU-only LLM engines on Kaggle quota, Kokoro-82M speech served through an R2 job queue, SDXL image generation on T4s. No GPU bill, no idle cost
+- Contributing to open-source AI/ML projects — type systems, training internals, inference paths
+- Pretraining **NOESIS**, my own LLM — a 125M-parameter decoder-only transformer (RoPE · RMSNorm · SwiGLU · GQA) built from zero: own tokenizer, own trainer, own quantizer
+- Building **Atelier** — a private chat stack: quantized LLM engines, Kokoro-82M speech synthesis, SDXL image generation, wired through async job queues
 
 ## Selected work
 
 | | |
 |---|---|
-| [**NOESIS**](https://github.com/zahidSkywalker/noesis) | A language model from scratch — own byte-level BPE tokenizer, RoPE/RMSNorm/SwiGLU/GQA transformer, int8 quantizer, Kaggle training pipeline. Zero pretrained weights, zero API keys |
+| [**NOESIS**](https://github.com/zahidSkywalker/noesis) | A language model from scratch — byte-level BPE tokenizer, RoPE/RMSNorm/SwiGLU/GQA transformer, int8 quantizer, full training pipeline. Zero pretrained weights, zero external APIs. Trains on a single T4 (4 vCPU, ~30GB RAM); inference runs on 4 CPU cores |
 | [**SalonFlow**](https://github.com/zahidSkywalker/salonflow) | Salon & barber booking + POS — guest storefront, booking without an account, receipts |
 | [**NanoWakeWord**](https://github.com/zahidSkywalker/NanoWakeWord) | Personal offline wake-word assistant for iOS — fully on-device |
 | [**IdeaPitch**](https://github.com/zahidSkywalker/ideapitch) | Turns startup ideas into investor-ready pitch decks |
@@ -26,8 +25,8 @@ agents wired around them.
 
 Python · PyTorch · TypeScript · Next.js · Node.js · Swift (when a wake word needs it)
 
-The long bet: Bengali-speaking users deserve first-class AI tooling — built
-locally, priced for here. Most of what I ship moves toward that.
+Everything is sized for real hardware: training fits a single T4 (4 vCPU, ~30GB
+RAM), inference runs on 4 CPU cores, quantized weights ship in ~150MB.
 
 ---
 
