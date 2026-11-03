@@ -1,4 +1,20 @@
-# Zahidul Islam
+<p align="center">
+  <img src="assets/header.svg" alt="Zahidul Islam — voice-first AI systems" width="100%">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+    <img src="assets/typing-light.svg" alt="currently: contributing to open-source AI/ML · pretraining NOESIS · building Atelier" width="100%">
+  </picture>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
+</div>
 
 I build voice-first AI systems end to end: wake-word models that run on a
 phone, language models trained from scratch, and the agents wired around them.
@@ -23,11 +39,29 @@ phone, language models trained from scratch, and the agents wired around them.
 
 ## Stack
 
-Python · PyTorch · TypeScript · Next.js · Node.js · Swift (when a wake word needs it)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,nextjs,nodejs,swift&perline=6" alt="Python, PyTorch, TypeScript, Next.js, Node.js, Swift">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,linux,git,github&perline=6" alt="React, Tailwind, Docker, Linux, Git, GitHub">
+</div>
+
+<p align="center"><em>Swift, when a wake word needs it.</em></p>
+
+<p align="center">
+  <img src="assets/runtime.svg" alt="runtime: single T4, 4 vCPU, ~30 GB RAM, 4-core inference" width="100%">
+</p>
 
 Everything is sized for real hardware: training fits a single T4 (4 vCPU, ~30GB
 RAM), inference runs on 4 CPU cores, quantized weights ship in ~150MB.
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
+</div>
 
-[zahidul.islam@outlook.com](mailto:zahidul.islam@outlook.com) · [Discord](https://discord.com/users/578598045004988416)
+<p align="center">
+  <a href="mailto:zahidul.islam@outlook.com">zahidul.islam@outlook.com</a> ·
+  <a href="https://discord.com/users/578598045004988416">Discord</a>
+</p>
