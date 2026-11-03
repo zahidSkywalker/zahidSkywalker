@@ -7,13 +7,14 @@ agents wired around them.
 ## Now
 
 - Contributing type-contract fixes to [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel/pull/4633) — typing the recipe-resolution boundary in the launcher
+- Pretraining **NOESIS** M4 on free Kaggle GPUs — session-chained checkpoints, resumed across the 9-hour wall
 - Building **Atelier** (private): a self-hosted chat stack — CPU-only LLM engines on Kaggle quota, Kokoro-82M speech served through an R2 job queue, SDXL image generation on T4s. No GPU bill, no idle cost
-- **NOESIS** (private): a small LLM from scratch — own tokenizer, own weights, own training loop
 
 ## Selected work
 
 | | |
 |---|---|
+| [**NOESIS**](https://github.com/zahidSkywalker/noesis) | A language model from scratch — own byte-level BPE tokenizer, RoPE/RMSNorm/SwiGLU/GQA transformer, int8 quantizer, Kaggle training pipeline. Zero pretrained weights, zero API keys |
 | [**SalonFlow**](https://github.com/zahidSkywalker/salonflow) | Salon & barber booking + POS — guest storefront, booking without an account, receipts |
 | [**NanoWakeWord**](https://github.com/zahidSkywalker/NanoWakeWord) | Personal offline wake-word assistant for iOS — fully on-device |
 | [**IdeaPitch**](https://github.com/zahidSkywalker/ideapitch) | Turns startup ideas into investor-ready pitch decks |
